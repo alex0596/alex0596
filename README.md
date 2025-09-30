@@ -62,7 +62,8 @@ Actualmente estoy adquiriendo experiencia en **programación, bases de datos, de
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alex0596&theme=react&hide_border=true"/>
 </p>
-
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alex0596&show_icons=true&theme=radical&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alex0596&layout=compact&theme=radical)
 ---
 
 ### 🚀 Objetivos actuales
