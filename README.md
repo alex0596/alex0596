@@ -1,6 +1,6 @@
 
 
-<img align="left" width="130" height="130" alt="Alejandro Buendía" src="./Images/avatar_personal.png" />
+<img align="left" width="130" height="130" alt="Alejandro Buendía" src="./avatar_personal.png" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
